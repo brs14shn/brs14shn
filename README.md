@@ -48,4 +48,4 @@ I prefer React & React Native for web/mobile front-end development.
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brs14shn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brs14shn=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;</p>
+
