@@ -49,3 +49,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brs14shn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
 
+### Support Me
+<p align="right"> Visitor Counter 🕵🏼</p>
+<p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{brs14shn}/count.svg" alt="Visitor's Count" /></p>
+
