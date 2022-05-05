@@ -53,20 +53,20 @@ I prefer React & React Native for web/mobile front-end development.
 <p align="right"> Visitor Counter 🕵🏼</p>
 <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{brs14shn}/count.svg" alt="Visitor's Count" /></p>
 
-### My Projects
+### <p>&#127894; My Projects</p>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
  <table>
 <tr>
     <caption>HMTL-CSS PROJECTS<caption>
     <th>S.Nu</td>
-    <th align="left">Project Name</th>
-    <th align="left">Project Link</th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="30%">Project Link</th>
     <th align="left">Targeted Ability</th>
     <th align="left">Notes</th>
 </tr>
 <tr>
-    <td>1.</td>
+    <td align=center >1.</td>
     <td>Voltran</td>
     <td>https://brs14shn.github.io/Voltran/</td>
     <td>HTML Semantics,CSS </td>
@@ -74,9 +74,17 @@ I prefer React & React Native for web/mobile front-end development.
     
 </tr>
 <tr>
-    <td>2.</td>
+    <td align=center >2.</td>
     <td>Netflix Survey Form</td>
     <td>https://brs14shn.github.io/HTML-CSS-02_Survey_Form/</td>
+    <td>Form Elements,İnput Type,Margin-Padding,Text </td>
+    <td>Project aims to create survey form within html and css.</td>
+    
+</tr>
+ <tr>
+    <td align=center >3.</td>
+    <td>Clarusway Survey Form</td>
+    <td>https://brs14shn.github.io/HTML-CSS-03_Clarusway_Survey_Form/</td>
     <td>Form Elements,İnput Type,Margin-Padding,Text </td>
     <td>Project aims to create survey form within html and css.</td>
     
