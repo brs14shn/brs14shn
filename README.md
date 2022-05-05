@@ -60,10 +60,10 @@ I prefer React & React Native for web/mobile front-end development.
 <tr>
     <caption>HMTL-CSS PROJECTS<caption>
     <th>S.Nu</td>
-    <th>Project Name</th>
-    <th>Project Link</th>
-    <th>Targeted Ability</th>
-    <th>Notes</th>
+    <th align="left">Project Name</th>
+    <th align="left">Project Link</th>
+    <th align="left">Targeted Ability</th>
+    <th align="left">Notes</th>
 </tr>
 <tr>
     <td>1.</td>
