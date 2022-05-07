@@ -92,9 +92,9 @@ I prefer React & React Native for web/mobile front-end development.
   <tr>
     <td align=center >4.</td>
     <td>Google Land Pages</td>
-    <td>https://brs14shn.github.io/HTML-CSS-03_Clarusway_Survey_Form/</td>
-    <td>Form Elements,İnput Type,Margin-Padding,Text </td>
-    <td>Project aims to create survey form within html and css.</td>
+    <td>https://brs14shn.github.io/HTML-CSS-04_GOOGLE_LAND_PAGES/</td>
+    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
+    <td>Project aims to create google landing page.</td>
     
 </tr>
  
