@@ -94,9 +94,16 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Google Land Pages</td>
     <td>https://brs14shn.github.io/HTML-CSS-04_GOOGLE_LAND_PAGES/</td>
     <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
-    <td>Project aims to create google landing page.</td>
-    
-</tr>
+   <td>Project aims to create google landing page.</td>
+ </tr>
+ <tr>
+    <td align=center >5.</td>
+    <td>QR_CODE</td>
+    <td>https://brs14shn.github.io/HTML-CSS-05_QR_CODE/</td>
+    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
+   <td>Project aims to create QR-code</td>
+ </tr>
+
  
 </table>
 
