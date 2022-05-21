@@ -21,7 +21,7 @@ I prefer React & React Native for web/mobile front-end development.
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>  -->
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <!--  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a>  -->
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
