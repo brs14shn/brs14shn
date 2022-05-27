@@ -105,6 +105,15 @@ I prefer React & React Native for web/mobile front-end development.
     <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
    <td>Project aims to create QR-code</td>
  </tr>
+ <tr>
+    <td align=center >6.</td>
+    <td>Profil Card</td>
+    <td> https://brs14shn.github.io/HMTL_CSS_06_Profil_Card/</td>
+    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
+   <td>Project aims to create Profil Card</td>
+ </tr>
+ 
+
 
  
 </table>
