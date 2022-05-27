@@ -114,7 +114,7 @@ I prefer React & React Native for web/mobile front-end development.
  </tr>
   <tr>
     <td align=center >7.</td>
-    <td>Profil Card</td>
+    <td>Shopping Basket</td>
     <td> https://brs14shn.github.io/HC-07_Shopping_Basket/</td>
     <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
    <td>Project aims to create Shopping Baskets</td>
