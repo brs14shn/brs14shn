@@ -120,10 +120,47 @@ I prefer React & React Native for web/mobile front-end development.
    <td>Project aims to create Shopping Baskets</td>
  </tr>
  
-
- 
-
-
- 
 </table>
+
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
+ <table>
+<tr>
+    <caption>HMTL-CSS-JS PROJECTS<caption>
+    <th>S.Nu</td>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="30%">Project Link</th>
+    <th align="left">Targeted Ability</th>
+    <th align="left">Notes</th>
+</tr>
+ <tr>
+    <td align=center >1.</td>
+    <td>Google-Dark-Mode</td>
+    <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/</td>
+    <td>Google-Dark-mode </td>
+  <td>Project aims to create dark mode </td>
+</tr>
+ <tr>
+    <td align=center >2.</td>
+    <td>Leap Year</td>
+    <td>https://brs14shn.github.io/HCJ_02_Leap_Year/</td>
+    <td>Google-Dark-mode </td>
+    <td>Project aims to find leap year </td>
+</tr>
+ <tr>
+    <td align=center >3.</td>
+    <td>Word Counter</td>
+    <td>https://brs14shn.github.io/HCJ_03_Word_Counter/</td>
+    <td>Google-Dark-mode </td>
+    <td>Project aims to created word counter </td>
+</tr>
+  <tr>
+    <td align=center >4.</td>
+    <td>Dropdown-Menu</td>
+    <td> https://brs14shn.github.io/HCJ-04_Dropdown-Menu/</td>
+    <td>Google-Dark-mode </td>
+    <td>Project aims to created dropdown-menu </td>
+</tr>
+ https://brs14shn.github.io/HCJ-04_Dropdown-Menu/
 
