@@ -167,5 +167,4 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Google-Dark-mode </td>
     <td>Project aims to created dropdown-menu </td>
 </tr>
- https://brs14shn.github.io/HCJ-04_Dropdown-Menu/
 
