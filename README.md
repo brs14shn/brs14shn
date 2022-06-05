@@ -181,6 +181,15 @@ I prefer React & React Native for web/mobile front-end development.
     <td> </td>
     <td>Project aims to created append-child </td>
 </tr>
+  <tr>
+    <td align=center >7.</td>
+    <td>Checkout-Form</td>
+    <td>  https://brs14shn.github.io/HCJ_07_Checkout_Form_Js/</td>
+    <td> </td>
+    <td>Project aims to created checkout-form </td>
+</tr>
+ 
+
 
  
 
