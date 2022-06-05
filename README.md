@@ -188,6 +188,16 @@ I prefer React & React Native for web/mobile front-end development.
     <td> </td>
     <td>Project aims to created checkout-form </td>
 </tr>
+   <tr>
+    <td align=center >8.</td>
+    <td>E-mail-Validation</td>
+    <td>  https://brs14shn.github.io/HCJ-08_E-mail-_Validation/</td>
+    <td> </td>
+    <td>Project aims to created e-mail validation </td>
+</tr>
+ 
+ 
+ https://brs14shn.github.io/HCJ-08_E-mail-_Validation/
  
 
 
