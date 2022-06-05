@@ -160,11 +160,21 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Google-Dark-mode </td>
     <td>Project aims to created word counter </td>
 </tr>
-  <tr>
+ <tr>
     <td align=center >4.</td>
     <td>Dropdown-Menu</td>
     <td> https://brs14shn.github.io/HCJ-04_Dropdown-Menu/</td>
     <td>Google-Dark-mode </td>
     <td>Project aims to created dropdown-menu </td>
 </tr>
+  <tr>
+    <td align=center >6.</td>
+    <td>DomAppend-Child</td>
+    <td> https://brs14shn.github.io/HCJ-06-Dom_Append_Child/</td>
+    <td> </td>
+    <td>Project aims to created append-child </td>
+</tr>
+ 
+ 
+
 
