@@ -168,12 +168,22 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Project aims to created dropdown-menu </td>
 </tr>
   <tr>
+    <td align=center >5.</td>
+    <td>Credit_Calculation</td>
+    <td> https://brs14shn.github.io/HCJ-05-Credit_Calculation/</td>
+    <td> </td>
+    <td>Project aims to created credit-calculation </td>
+</tr>
+ <tr>
     <td align=center >6.</td>
     <td>DomAppend-Child</td>
     <td> https://brs14shn.github.io/HCJ-06-Dom_Append_Child/</td>
     <td> </td>
     <td>Project aims to created append-child </td>
 </tr>
+
+ 
+
  
  
 
