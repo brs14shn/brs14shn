@@ -69,60 +69,52 @@ I prefer React & React Native for web/mobile front-end development.
     <th>S.Nu</td>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="30%">Project Link</th>
-    <th align="left">Targeted Ability</th>
-    <th align="left">Notes</th>
+  
 </tr>
 <tr>
     <td align=center >1.</td>
     <td>Voltran</td>
     <td>https://brs14shn.github.io/Voltran/</td>
-    <td>HTML Semantics,CSS </td>
-    <td>.... </td>
+    
     
 </tr>
 <tr>
     <td align=center >2.</td>
     <td>Netflix Survey Form</td>
     <td>https://brs14shn.github.io/HTML-CSS-02_Survey_Form/</td>
-    <td>Form Elements,İnput Type,Margin-Padding,Text </td>
-    <td>Project aims to create survey form within html and css.</td>
+   
     
 </tr>
  <tr>
     <td align=center >3.</td>
     <td>Clarusway Survey Form</td>
     <td>https://brs14shn.github.io/HTML-CSS-03_Clarusway_Survey_Form/</td>
-    <td>Form Elements,İnput Type,Margin-Padding,Text </td>
-    <td>Project aims to create survey form within html and css.</td>
+    
     
 </tr>
   <tr>
     <td align=center >4.</td>
     <td>Google Land Pages</td>
     <td>https://brs14shn.github.io/HTML-CSS-04_GOOGLE_LAND_PAGES/</td>
-    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
-   <td>Project aims to create google landing page.</td>
+   
  </tr>
  <tr>
     <td align=center >5.</td>
     <td>QR_CODE</td>
     <td>https://brs14shn.github.io/HTML-CSS-05_QR_CODE/</td>
-    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
-   <td>Project aims to create QR-code</td>
+    
  </tr>
  <tr>
     <td align=center >6.</td>
     <td>Profil Card</td>
     <td> https://brs14shn.github.io/HMTL_CSS_06_Profil_Card/</td>
-    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
-   <td>Project aims to create Profil Card</td>
+   
  </tr>
   <tr>
     <td align=center >7.</td>
     <td>Shopping Basket</td>
     <td> https://brs14shn.github.io/HC-07_Shopping_Basket/</td>
-    <td>List Properties-Tables / CSS-The Display Property-The position Property </td>
-   <td>Project aims to create Shopping Baskets</td>
+   
  </tr>
  
 </table>
