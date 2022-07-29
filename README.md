@@ -60,7 +60,7 @@ I prefer React & React Native for web/mobile front-end development.
 <p align="right"> Visitor Counter 🕵🏼</p>
 <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{brs14shn}/count.svg" alt="Visitor's Count" /></p>
 
-### <p>&#127894; My Projects</p>
+### <h2 align="center">&#127894; My Projects</h2>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
  <table>
