@@ -64,9 +64,9 @@ I prefer React & React Native for web/mobile front-end development.
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
  <table>
-<tr>
+<tr >
     <caption>HMTL-CSS PROJECTS<caption>
-    <th>S.Nu</td>
+    <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="30%">Project Link</th>
   
@@ -114,6 +114,18 @@ I prefer React & React Native for web/mobile front-end development.
     <td align=center >7.</td>
     <td>Shopping Basket</td>
     <td> https://brs14shn.github.io/HC-07_Shopping_Basket/</td>
+   
+ </tr>
+ <tr>
+    <td align=center >8.</td>
+    <td>Google Landing Pages</td>
+    <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/ </td>
+   
+ </tr>
+ <tr>
+    <td align=center >9.</td>
+    <td>Parallax WebSite</td>
+    <td>https://brs14shn.github.io/HC-09_Parallax_Responsive_Website/ </td>
    
  </tr>
  
