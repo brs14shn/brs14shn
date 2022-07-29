@@ -240,13 +240,23 @@ I prefer React & React Native for web/mobile front-end development.
 </tr>
    <tr>
     <td align=center >16.</td>
-    <td>Digital Clock</td>
+    <td>Count Timer</td>
    <td>https://brs14shn.github.io/Count-Timer/</td>
 </tr>
    <tr>
     <td align=center >17.</td>
     <td>Roman Numerals Conventer</td>
    <td>https://brs14shn.github.io/Roman-Numerals-Conventer/</td>
+</tr>
+   <tr>
+    <td align=center >18.</td>
+    <td>Random User Generator-Async-Await</td>
+   <td>https://brs14shn.github.io/random_user_generator/</td>
+</tr>
+   <tr>
+    <td align=center >19.</td>
+    <td>Stop Watch</td>
+   <td></td>
 </tr>
   
   <table>
