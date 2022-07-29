@@ -128,6 +128,18 @@ I prefer React & React Native for web/mobile front-end development.
     <td>https://brs14shn.github.io/HC-09_Parallax_Responsive_Website/ </td>
    
  </tr>
+      <tr>
+    <td align=center >10.</td>
+    <td>Media Query</td>
+    <td>https://brs14shn.github.io/HC-11_Media_Query/ </td>
+   
+ </tr>
+      <tr>
+    <td align=center >11.</td>
+    <td>Github_Login_Pages</td>
+    <td>https://brs14shn.github.io/HC_Github_Login_Pages/ </td>
+   
+ </tr>
  
 </table>
 
@@ -136,76 +148,109 @@ I prefer React & React Native for web/mobile front-end development.
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
  <table>
 <tr>
-    <caption>HMTL-CSS-JS PROJECTS<caption>
-    <th>S.Nu</td>
+    <caption>HMTL-CSS-JS<caption>
+    <th width="5%">S.Nu</td>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="30%">Project Link</th>
-    <th align="left">Targeted Ability</th>
-    <th align="left">Notes</th>
+   
 </tr>
  <tr>
     <td align=center >1.</td>
     <td>Google-Dark-Mode</td>
     <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/</td>
-    <td>Google-Dark-mode </td>
-  <td>Project aims to create dark mode </td>
+   
 </tr>
  <tr>
     <td align=center >2.</td>
     <td>Leap Year</td>
     <td>https://brs14shn.github.io/HCJ_02_Leap_Year/</td>
-    <td>Google-Dark-mode </td>
-    <td>Project aims to find leap year </td>
+    
 </tr>
  <tr>
     <td align=center >3.</td>
     <td>Word Counter</td>
     <td>https://brs14shn.github.io/HCJ_03_Word_Counter/</td>
-    <td>Google-Dark-mode </td>
-    <td>Project aims to created word counter </td>
+   
 </tr>
  <tr>
     <td align=center >4.</td>
     <td>Dropdown-Menu</td>
     <td> https://brs14shn.github.io/HCJ-04_Dropdown-Menu/</td>
-    <td>Google-Dark-mode </td>
-    <td>Project aims to created dropdown-menu </td>
+   
 </tr>
   <tr>
     <td align=center >5.</td>
     <td>Credit_Calculation</td>
     <td> https://brs14shn.github.io/HCJ-05-Credit_Calculation/</td>
-    <td> </td>
-    <td>Project aims to created credit-calculation </td>
+    
 </tr>
  <tr>
     <td align=center >6.</td>
     <td>DomAppend-Child</td>
     <td> https://brs14shn.github.io/HCJ-06-Dom_Append_Child/</td>
-    <td> </td>
-    <td>Project aims to created append-child </td>
+  
 </tr>
   <tr>
     <td align=center >7.</td>
     <td>Checkout-Form</td>
     <td>  https://brs14shn.github.io/HCJ_07_Checkout_Form_Js/</td>
-    <td> </td>
-    <td>Project aims to created checkout-form </td>
+   
 </tr>
    <tr>
     <td align=center >8.</td>
     <td>E-mail-Validation</td>
     <td>  https://brs14shn.github.io/HCJ-08_E-mail-_Validation/</td>
-    <td> </td>
-    <td>Project aims to created e-mail validation </td>
+  
+</tr>
+   <tr>
+    <td align=center >9.</td>
+    <td>Capturing With Checkout-Page</td>
+    <td>  https://brs14shn.github.io/HCJ-08_E-mail-_Validation/</td>
+  
 </tr>
   <tr>
     <td align=center >10.</td>
     <td>Guess Number</td>
-    <td>   https://brs14shn.github.io/HCJ_10_Guess_Number/  </td>
-    <td> </td>
-    <td>Project aims to created e-mail validation </td>
+   <td>https://brs14shn.github.io/HCJ_10_Guess_Number/  </td>
 </tr>
+   <tr>
+    <td align=center >11.</td>
+    <td>Bootstrap Responsive Project</td>
+   <td>https://brs14shn-bootstrap-responsive-project.netlify.app/ </td>
+</tr>
+   <tr>
+    <td align=center >12.</td>
+    <td>Middle Level Calculator</td>
+   <td>https://github.com/brs14shn/Middle_Level_Calculator </td>
+</tr>
+   <tr>
+    <td align=center >13.</td>
+    <td>Todo List</td>
+   <td>https://brs14shn.github.io/HCJ-11_Todo_List/ </td>
+</tr>
+   <tr>
+    <td align=center >14.</td>
+    <td>Weather App</td>
+   <td>https://brs14shn.github.io/api-wheater-condition-app/ </td>
+</tr>
+   <tr>
+    <td align=center >15.</td>
+    <td>Digital Clock</td>
+   <td>https://brs14shn.github.io/Digital-Clock/</td>
+</tr>
+   <tr>
+    <td align=center >16.</td>
+    <td>Digital Clock</td>
+   <td>https://brs14shn.github.io/Count-Timer/</td>
+</tr>
+   <tr>
+    <td align=center >17.</td>
+    <td>Roman Numerals Conventer</td>
+   <td>https://brs14shn.github.io/Roman-Numerals-Conventer/</td>
+</tr>
+  
+  <table>
+  
  
  
 
