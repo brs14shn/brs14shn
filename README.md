@@ -263,7 +263,7 @@ I prefer React & React Native for web/mobile front-end development.
    <tr>
     <td align=center >18.</td>
     <td>Random User Generator-Async-Await</td>
-   <td>https://brs14shn.github.io/random_user_generator/</td>
+   <td>https://brs14shn.github.io/random_user_generator-async/</td>
 </tr>
    <tr>
     <td align=center >19.</td>
