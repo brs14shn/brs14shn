@@ -6,6 +6,8 @@
 
 ### What I'm using ? 🛠 
 
+<p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="30%" height="" /></p>
+
 I prefer React & React Native for web/mobile front-end development.
 <br/>
 
@@ -13,7 +15,15 @@ I prefer React & React Native for web/mobile front-end development.
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/feed/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://linkedin.com/in/www.linkedin.com/in/baris-sahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baris-sahin" height="30" width="40" /></a>
+ <a href="mailto:brsshn292929@gmail.com" target="blank"><img align="center"
+      src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
+      alt="Barıs SAHİN" height="30" width="40" /></a>
+</p>
+
+
 
 ## 🚀 Skills
 <p align="left"> 
