@@ -5,7 +5,7 @@
 <a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠 
+### What I'm using ? 
 
 <p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="30%" height="" /></p>
 
