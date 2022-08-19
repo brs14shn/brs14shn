@@ -82,16 +82,36 @@ I prefer React & React Native for web/mobile front-end development.
     <caption>React-Redux Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
-    <th align="left" width="30%">Project Link</th>
+    <th align="left" width="50%">Project Link</th>
   
 </tr>
 <tr>
     <td align=center >1.</td>
     <td>React-Tour_Places-1(Self)</td>
-    <td>https://react-tour-places-three.vercel.app/</td>
-    
-    
+    <td>https://react-tour-places-three.vercel.app/</td>   
 </tr>
+<tr>
+    <td align=center >2.</td>
+    <td>React-Tour_Places</td>
+    <td>https://brs14shntourfetchproject.netlify.app/</td>   
+</tr>
+<tr>
+    <td align=center >3.</td>
+    <td>Languages Cards</td>
+    <td>https://react-02-lang-cards.vercel.app/</td>   
+</tr>
+<tr>
+    <td align=center >4.</td>
+    <td>Random User Generator</td>
+    <td>https://brs14shn-react-user-random-generator.netlify.app/</td>   
+</tr>
+
+
+
+
+
+
+
 
 
 
