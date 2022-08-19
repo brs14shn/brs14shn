@@ -130,7 +130,27 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Recipe-App-StyledComponents</td>
     <td>https://react-recipe-styled-components.vercel.app/</td>   
 </tr>
+<tr>
+    <td align=center >10.</td>
+    <td>Movie-App</td>
+    <td>https://movie-app-firebase-material.vercel.app/</td>   
+</tr>
+ <tr>
+    <td align=center >11.</td>
+    <td>Firebase-realtime-contact-form</td>
+    <td>https://firebase-react-contact-form.vercel.app/</td>   
+</tr>
+ <tr>
+    <td align=center >12.</td>
+    <td>React-Carousel</td>
+    <td>https://react-carousel1.vercel.app/</td>   
+</tr>
+     
+     
+   
 
+     
+     
 
 
 
