@@ -87,7 +87,7 @@ I prefer React & React Native for web/mobile front-end development.
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>React-Tour_Places-1(Self)</td>
+    <td>React-Tour_Places</td>
     <td>https://react-tour-places-three.vercel.app/</td>   
 </tr>
 <tr>
@@ -105,6 +105,37 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Random User Generator</td>
     <td>https://brs14shn-react-user-random-generator.netlify.app/</td>   
 </tr>
+<tr>
+    <td align=center >5.</td>
+    <td>Github User</td>
+    <td>https://react-axios-router-github.vercel.app/</td>   
+</tr>
+<tr>
+    <td align=center >6.</td>
+    <td>React Blog</td>
+    <td>https://react-blog-alpha-ivory.vercel.app/</td>   
+</tr>
+<tr>
+    <td align=center >7.</td>
+    <td>Recipe_Sites_Router</td>
+    <td>https://react-router-recipe-site.vercel.app/</td>   
+</tr>
+<tr>
+    <td align=center >8.</td>
+    <td>Weather App</td>
+    <td>https://react03-weather-app.netlify.app/</td>   
+</tr>
+<tr>
+    <td align=center >9.</td>
+    <td>Recipe-App-StyledComponents</td>
+    <td>https://react-recipe-styled-components.vercel.app/</td>   
+</tr>
+
+
+
+
+
+
 
 
 
