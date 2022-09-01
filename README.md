@@ -371,6 +371,12 @@ I prefer React & React Native for web/mobile front-end development.
     <td>Stop Watch</td>
    <td>https://brs14shn.github.io/HCJ-STOP-WATCH/</td>
 </tr>
+<tr>
+   <td align=center >20.</td>
+    <td>Pokedex</td>
+   <td>https://js-pokedex-seven.vercel.app/</td>
+</tr>
+
   
   <table>
   
