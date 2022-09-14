@@ -82,68 +82,91 @@ I prefer React & React Native for web/mobile front-end development.
     <caption>React-Redux Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
-    <th align="left" width="50%">Project Link</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
   
 </tr>
 <tr>
     <td align=center >1.</td>
     <td>React-Tour_Places</td>
-    <td>https://react-tour-places-three.vercel.app/</td>   
+    <td>https://react-tour-places-three.vercel.app/</td> 
+    <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >2.</td>
     <td>React-Tour_Places</td>
-    <td>https://brs14shntourfetchproject.netlify.app/</td>   
+    <td>https://brs14shntourfetchproject.netlify.app/</td> 
+    <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >3.</td>
     <td>Languages Cards</td>
-    <td>https://react-02-lang-cards.vercel.app/</td>   
+    <td>https://react-02-lang-cards.vercel.app/</td>  
+     <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
     <td align=center >4.</td>
     <td>Random User Generator</td>
-    <td>https://brs14shn-react-user-random-generator.netlify.app/</td>   
+    <td>https://brs14shn-react-user-random-generator.netlify.app/</td> 
+     <td>useState, useEffect, axios, async await, REST API</td>
 </tr>
 <tr>
     <td align=center >5.</td>
     <td>Github User</td>
-    <td>https://react-axios-router-github.vercel.app/</td>   
+    <td>https://react-axios-router-github.vercel.app/</td> 
+     <td>JS DOM, Github API, Async Await, Axios, Events,React-Router</td>
 </tr>
 <tr>
     <td align=center >6.</td>
     <td>React Blog</td>
-    <td>https://react-blog-alpha-ivory.vercel.app/</td>   
+    <td>https://react-blog-alpha-ivory.vercel.app/</td> 
+     <td>JS DOM, Async Await, Axios, Events,React-Router</td>
 </tr>
 <tr>
     <td align=center >7.</td>
     <td>Recipe_Sites_Router</td>
-    <td>https://react-router-recipe-site.vercel.app/</td>   
+    <td>https://react-router-recipe-site.vercel.app/</td> 
+     <td>JS DOM, Async Await, Axios, Events,React-Router</td>
 </tr>
 <tr>
     <td align=center >8.</td>
     <td>Weather App</td>
-    <td>https://react03-weather-app.netlify.app/</td>   
+    <td>https://react03-weather-app.netlify.app/</td> 
+    <td>React, useState, useEffect, axios, async await, API</td>   
+    
 </tr>
 <tr>
     <td align=center >9.</td>
     <td>Recipe-App-StyledComponents</td>
-    <td>https://react-recipe-styled-components.vercel.app/</td>   
+    <td>https://react-recipe-styled-components.vercel.app/</td> 
+     <td>React, useState, useEffect, fetch, async await, API</td> 
 </tr>
 <tr>
     <td align=center >10.</td>
     <td>Movie-App</td>
-    <td>https://movie-app-firebase-material.vercel.app/</td>   
+    <td>https://movie-app-firebase-material.vercel.app/</td>  
+     <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
 </tr>
  <tr>
     <td align=center >11.</td>
     <td>Firebase-realtime-contact-form</td>
-    <td>https://firebase-react-contact-form.vercel.app/</td>   
+    <td>https://firebase-react-contact-form.vercel.app/</td>  
+    <td> React, firebase database, firebase ( collection, getDocs, addDoc, deleteDoc, doc, updateDoc), Bootstrap, React-icons</td>  
+    
+   
 </tr>
  <tr>
     <td align=center >12.</td>
+    <td>React-Shopping-Card</td>
+    <td>https://react-context-ap-shopping-card.vercel.app/</td> 
+    <td>React,Async Await, Axios, Events,React-Router,Faker,Context,Reducer</td> 
+</tr>
+
+ <tr>
+    <td align=center >13.</td>
     <td>React-Carousel</td>
-    <td>https://react-carousel1.vercel.app/</td>   
+    <td>https://react-carousel1.vercel.app/</td> 
+     <td>React-carousel, useState, useEffect</td> 
 </tr>
      
 </table>
