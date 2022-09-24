@@ -1,4 +1,12 @@
+
+
 <h1 align="center">Hi 👋, I'm Barış Şahin</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Frontend Developer!;I used it in my projects ;React | Redux ;HTML|CSS|JS|Responsive Design!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
@@ -78,7 +86,7 @@ I prefer React & Django for web/mobile front-end development.
   <!--<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>-->
 </p>
 
-<p><img src="https://user-images.githubusercontent.com/99876715/192119625-44bd97fe-a1fb-44f9-b61a-fd2983a99b7e.gif" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/99876715/192119625-44bd97fe-a1fb-44f9-b61a-fd2983a99b7e.gif" /></p>
 
 
 
