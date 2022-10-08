@@ -86,7 +86,10 @@ I prefer React & Django for web/mobile front-end development.
   <!--<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>-->
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/99876715/192119625-44bd97fe-a1fb-44f9-b61a-fd2983a99b7e.gif" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/99876715/194717950-20d89fbf-d279-495b-8ced-2b96d675b604.gif" /></p>
+
+
+
 
 
 
