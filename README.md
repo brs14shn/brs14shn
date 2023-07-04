@@ -204,6 +204,20 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://react-carousel1.vercel.app/</td> 
      <td>React-carousel, useState, useEffect</td> 
 </tr>
+ <tr>
+    <td align=center >14.</td>
+    <td>React-Admin-Dashboard</td>
+    <td>https://reactadmindashboard.vercel.app/</td> 
+     <td>Recharts, Styled Components, Router</td> 
+</tr>
+
+ <tr>
+    <td align=center >15.</td>
+    <td>React With News</td>
+    <td>https://reactnewss.vercel.app/</td> 
+    <td>for the published version;
+- you can see it live with git clone command</td> 
+</tr>
      
 </table>
 
