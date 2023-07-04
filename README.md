@@ -218,7 +218,28 @@ I prefer React & Django for web/mobile full-stack development.
     <td>for the published version;
 - you can see it live with git clone command</td> 
 </tr>
-     
+
+<tr>
+    <td align=center >16.</td>
+    <td>React Project</td>
+    <td>https://piton-technology-task.vercel.app/</td> 
+    <td></td> 
+</tr>
+
+<tr>
+    <td align=center >17.</td>
+    <td>React Store App</td>
+    <td>https://new-store-app-1hax.vercel.app/</td> 
+    <td></td> 
+</tr>
+
+<tr>
+    <td align=center >18.</td>
+    <td>React Crypto App</td>
+    <td>https://react-crypto-app-lilac.vercel.app/</td> 
+    <td></td> 
+</tr>
+    
 </table>
 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
