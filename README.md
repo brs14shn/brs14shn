@@ -10,7 +10,7 @@
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
-<a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
+<a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=brs14shn" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 
@@ -19,7 +19,7 @@
  <img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="20%" height="30%" />
 </p>
 
-I prefer React & Django for web/mobile full-stack development.
+I prefer React & Node.js for web/mobile full-stack development.
 
 
 - Python, HTML5, CSS3, Git, GitHub, Linux
@@ -103,6 +103,8 @@ I prefer React & Django for web/mobile full-stack development.
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brs14shn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
+
+![snake gif](https://github.com/brs14shn/brs14shn/blob/output/github-contribution-grid-snake.gif)
 
 ### Support Me
 <p align="right"> Visitor Counter 🕵🏼</p>
